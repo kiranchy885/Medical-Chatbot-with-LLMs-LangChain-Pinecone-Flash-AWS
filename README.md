@@ -1,7 +1,7 @@
 # Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flash-AWS
  # How to Run the Project Step 1: Clone the Repository git 
  '''' bash 
-git clone https://github.com/Diptiparajuli4/Dips-Medical-Chatbot.git
+git clone https://github.com/kiranchy885/Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flash-AWS.git
  '''
 
 # cd Medical-Chatbot
